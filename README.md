@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Carlos Cuadra: @QADRAX
 - 👀 I am interested in all kinds of techniques and technologies aimed at painting things on a screen. I'm a UI developer. 
 - 🌱 I’m currently learning Rust.
-- 📫 How to reach me: carlosqadra@gmail.com
